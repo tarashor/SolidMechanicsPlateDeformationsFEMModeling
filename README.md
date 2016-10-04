@@ -1,2 +1,2 @@
 # SolidMechanicsPlateDeformationsFEMModeling
-Application for 4th year of studing at Applied Mathematics Faculty
+Application for 4th year of studying at Applied Mathematics Faculty
