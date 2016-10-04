@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramFEM", "ProgramFEM\ProgramFEM.csproj", "{131A8F2A-F757-46E9-AFC5-87A8F5BFB4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgebraClasses", "MatrixProj\AlgebraClasses.csproj", "{B8D3F65F-9110-438B-8747-3FE5059E9A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FEMLibrary", "FEMLibrary\FEMLibrary.csproj", "{78840534-35E9-4E4D-AAA6-A5D903200E79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131A8F2A-F757-46E9-AFC5-87A8F5BFB4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131A8F2A-F757-46E9-AFC5-87A8F5BFB4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131A8F2A-F757-46E9-AFC5-87A8F5BFB4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131A8F2A-F757-46E9-AFC5-87A8F5BFB4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D3F65F-9110-438B-8747-3FE5059E9A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D3F65F-9110-438B-8747-3FE5059E9A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D3F65F-9110-438B-8747-3FE5059E9A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D3F65F-9110-438B-8747-3FE5059E9A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78840534-35E9-4E4D-AAA6-A5D903200E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78840534-35E9-4E4D-AAA6-A5D903200E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78840534-35E9-4E4D-AAA6-A5D903200E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78840534-35E9-4E4D-AAA6-A5D903200E79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
